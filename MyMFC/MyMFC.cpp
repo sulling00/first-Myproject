@@ -52,6 +52,9 @@ BOOL CMyMFCApp::InitInstance()
 
 	CWinApp::InitInstance();
 
+	int a;
+	a = 0;
+
 
 	AfxEnableControlContainer();
 
